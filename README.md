@@ -8,14 +8,14 @@
 
 适用芯片、最低系统版本、安装步骤、已知问题以及签名和公证情况，以每个 Release 的说明为准。预览版本会标记为 Pre-release；签名或公证通过不等同于全部业务功能已完成验收。
 
-最新公开预览版：[汇作AI Build 88 · 0.1.7-rc.2](https://github.com/Andychenfromchina/huizuoai/releases/tag/b88)，适用于 macOS 13.0 及以上的 Apple Silicon 设备。
+最新公开预览版：[汇作AI Build 89 · 0.1.7-rc.2](https://github.com/Andychenfromchina/huizuoai/releases/tag/b89)，适用于 macOS 15.0 及以上的 Apple Silicon 设备。
 
-[下载安装包（ZIP）](https://github.com/Andychenfromchina/huizuoai/releases/download/b88/HuizuoAI.zip) · [SHA-256 校验文件](https://github.com/Andychenfromchina/huizuoai/releases/download/b88/SHA256SUMS.txt)。
+[下载安装包（ZIP）](https://github.com/Andychenfromchina/huizuoai/releases/download/b89/HuizuoAI.zip) · [SHA-256 校验文件](https://github.com/Andychenfromchina/huizuoai/releases/download/b89/SHA256SUMS.txt)。
 
 一行下载：
 
 ```sh
-curl -fL -o HuizuoAI.zip https://github.com/Andychenfromchina/huizuoai/releases/download/b88/HuizuoAI.zip
+curl -fL -o HuizuoAI.zip https://github.com/Andychenfromchina/huizuoai/releases/download/b89/HuizuoAI.zip
 ```
 
 ## 校验下载
